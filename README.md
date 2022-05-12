@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 * [Facebook](https://www.facebook.com/ChintsaiHwo/)
 * [Instagram](https://www.instagram.com/chintsaihwo/)
-* [Youtube](https://studio.youtube.com/channel/UCMt0affgpxiqz18fEekiDgQ/editing)
+* [Youtube](https://www.youtube.com/channel/UCMt0affgpxiqz18fEekiDgQ)
 * [LeetCode](https://leetcode.com/chintsai/)
 * [Codeforces](https://codeforces.com/profile/chintsai)
 * [Zhihu](https://www.zhihu.com/people/jcglqmoyx)
