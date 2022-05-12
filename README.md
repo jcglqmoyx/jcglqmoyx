@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [LeetCode](https://leetcode.com/chintsai/)
 [Codeforces](https://codeforces.com/profile/chintsai)
 [Zhihu](https://www.zhihu.com/people/jcglqmoyx)
-![Wechat](./static/images/wechat.jpeg)
+[微信 Wechat](./static/images/wechat.jpeg)
