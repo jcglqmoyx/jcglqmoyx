@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Facebook](https://www.facebook.com/ChintsaiHwo/)
-[Instagram](https://www.instagram.com/chintsaihwo/)
-[LeetCode](https://leetcode.com/chintsai/)
-[Codeforces](https://codeforces.com/profile/chintsai)
-[Zhihu](https://www.zhihu.com/people/jcglqmoyx)
-[微信 Wechat](./static/images/wechat.jpeg)
+* [Facebook](https://www.facebook.com/ChintsaiHwo/)
+* [Instagram](https://www.instagram.com/chintsaihwo/)
+* [Youtube](https://studio.youtube.com/channel/UCMt0affgpxiqz18fEekiDgQ/editing)
+* [LeetCode](https://leetcode.com/chintsai/)
+* [Codeforces](https://codeforces.com/profile/chintsai)
+* [Zhihu](https://www.zhihu.com/people/jcglqmoyx)
+* [微信 Wechat](./static/images/wechat.jpeg)
